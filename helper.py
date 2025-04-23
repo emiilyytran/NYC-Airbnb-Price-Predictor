@@ -7,7 +7,6 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler, FunctionTransformer
 from sklearn.linear_model      import Ridge
-import matplotlib.pyplot as plt
 
 @st.cache_data
 def load_and_clean_data():
