@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("🏠 NYC Airbnb Price Predictor")
+st.title("Empire Estimator: Predicting NYC Airbnb Rates 🏠")
 st.markdown("""By: Emily Tran  
             April 22, 2025""")
 st.markdown("## Introduction")
